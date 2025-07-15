@@ -1,5 +1,5 @@
 # Arduino-LED-Button-Control
-This project is about using Arduino with three leds and three buttons
+This project is about using Arduino with three leds and three buttons. 
 Each button controls one LED 
 
 **The components Used**
@@ -13,6 +13,12 @@ Each button controls one LED
 ![Demo Image](arduino_project.png)
 
 *Figure 1: Top view of the full LED-button system.*
+
+
+#### 🧪 Tinkercad Simulation
+
+You can view and simulate the full Arduino project on Tinkercad using the link below:
+[Open Tinkercad Simulation](https://www.tinkercad.com/things/4nhmCCRaghk-arduinoproject)
 
 ## Arduino Code
 
