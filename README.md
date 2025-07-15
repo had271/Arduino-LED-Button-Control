@@ -29,21 +29,21 @@ void setup() {
 void loop() {
   if (digitalRead(7) == HIGH) {
     digitalWrite(13, HIGH);
-    delay(3000);
+    delay(1000);
     digitalWrite(13, LOW);
-    delay(3000);
+    delay(100);
   } 
   else if (digitalRead(4) == HIGH) {
     digitalWrite(12, HIGH);
-    delay(3000);
+    delay(1000);
     digitalWrite(12, LOW);
-    delay(3000);
+    delay(100);
   } 
   else if (digitalRead(2) == HIGH) {
     digitalWrite(8, HIGH);
-    delay(3000);
+    delay(1000);
     digitalWrite(8, LOW);
-    delay(3000);
+    delay(100);
   } 
   else {
     digitalWrite(13, LOW);
@@ -51,6 +51,7 @@ void loop() {
     digitalWrite(8, LOW);
   }
 }
+
 
 
 
