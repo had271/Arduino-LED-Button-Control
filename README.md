@@ -50,10 +50,4 @@ void loop() {
     digitalWrite(12, LOW);
     digitalWrite(8, LOW);
   }
-}
-
-
-
-
-
-
+}```
