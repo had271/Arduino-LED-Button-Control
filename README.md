@@ -1,6 +1,7 @@
 # Arduino-LED-Button-Control
 This project is about using Arduino with three leds and three buttons
 Each button controls one LED 
+
 **The components Used**
 1. ArduinonUNO
 2. 3 buttons
