@@ -15,7 +15,7 @@ Each button controls one LED
 *Figure 1: Top view of the full LED-button system.*
 
 
-#### 🧪 Tinkercad Simulation
+####  Tinkercad Simulation
 
 You can view and simulate the full Arduino project on Tinkercad using the link below:
 [Open Tinkercad Simulation](https://www.tinkercad.com/things/4nhmCCRaghk-arduinoproject)
